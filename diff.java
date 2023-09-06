@@ -1,10 +1,10 @@
 public class main{
     public static void main(string args[])
-int x=5;
-int y=6;
-int z=5;
-int sum=x+y+z;
+int a=5;
+int b=6;
+int c=5;
+int sum=a+b+c;
 System.out.println(sum);//
-print the sum of x+y+z
+print the sum of a+b+c
 }
 }
