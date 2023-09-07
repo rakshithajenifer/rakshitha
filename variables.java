@@ -3,6 +3,7 @@ public class Main {
     String name = "John";
     System.out.println(name);
 system.out.println("hello");
+system.out.println("gpt");
 
   }
 }
